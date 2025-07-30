@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Kolkata Knight Riders v Sunrisers Hyderabad - Cricket - BBC Sport",
+            "description": "Find out the in depth batting and bowling figures for Kolkata Knight Riders v Sunrisers Hyderabad in the Tata Indian Premier League on BBC Sport.",
+            "url": "http://www.bbc.co.uk/sport/cricket/scorecard/e-226440",
+            "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/sport/bbc-sport-logo.0da9386782.png",
+            "publishedAt": "2025-04-03T14:37:25.0053984Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Men with loaded guns cause chaos at MCG",
+            "description": "Two men have reportedly been arrested inside the Melbourne Cricket Ground (MCG) after allegedly managing to get through security armed with loaded guns.",
+            "url": "https://www.news.com.au/national/crime/two-men-arrested-with-loaded-guns-at-mcg-match-between-carlton-and-collingwood/news-story/f3a10633ff8704593d035ab5d64e032a",
+            "urlToImage": "https://content.api.news/v3/images/bin/05fd1e1034d713c5be8bb4d9086f8c90",
+            "publishedAt": "2025-04-03T12:59:00Z",
+            "content": "Two men have reportedly been arrested inside the Melbourne Cricket Ground (MCG) after allegedly managing to get through security armed with loaded guns. \r\nThe men attended Thursday night’s football m… [+994 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
